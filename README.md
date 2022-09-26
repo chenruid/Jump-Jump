@@ -15,11 +15,7 @@ Features included in this game
 - Automatic table generation
 - Death determination and restarting the game
 - Score statistics
-- Particle effect of color accumulation
-- Character power-up effect
-- Character power-up table effect
 - Floating score effect
-- **Network leaderboard function**
 - Doubling and scoring function
 
 Included knowledge points
