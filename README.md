@@ -5,7 +5,7 @@ Unity 2021.3.4f1
 
 Demo
 ===
-**[在线玩 Play Online](https://github.com/chenruid/Jump-Jump/tree/main/webgldemo)**  
+**[在线玩 Play Online](https://github.com/chenruid/Jump-Jump/tree/main/webgldemo/)**  
 ![](https://github.com/chenruid/Jump-Jump/blob/main/demo.gif)
 
 
