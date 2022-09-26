@@ -5,7 +5,7 @@ Unity 2021.3.4f1
 
 Demo
 ===
-![](https://raw.githubusercontent.com/chenruid/Jump-Jump/demo.gif) 
+![](https://github.com/chenruid/Jump-Jump/blob/main/demo.gif)
 
 
 Features included in this game
