@@ -5,8 +5,7 @@ Unity 2021.3.4f1
 
 Demo
 ===
-**[Play Online](https://github.com/chenruid/Jump-Jump/webgldemo)**  
-![](https://raw.githubusercontent.com/zhenghongzhi/Unity-JumpJump/master/demo.gif)  
+![](https://github.com/chenruid/Jump-Jump/demo.gif)  
 
 
 Features included in this game
